@@ -18,4 +18,4 @@ A Netflix-inspired landing page clone built using HTML and CSS.
 - Flexbox
 
 ## 📸 Preview
-![Game Screenshot](ss/ss.png)
+![Game Screenshot](assets/netflix-clone-preview.png.png)
