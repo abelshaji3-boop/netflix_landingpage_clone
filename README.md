@@ -1,0 +1,21 @@
+# 🎬 Netflix Landing Page Clone
+
+A Netflix-inspired landing page clone built using HTML and CSS.
+
+## 🚀 Features
+
+- Responsive Hero Section
+- Netflix Style UI
+- Language Selector
+- Sign In Button
+- Background Overlay Effect
+- Clean Layout using Flexbox
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+
+## 📸 Preview
+![Game Screenshot](ss/ss.png)
