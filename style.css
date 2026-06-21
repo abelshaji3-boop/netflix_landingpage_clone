@@ -1,0 +1,79 @@
+body{
+    background-image:
+    linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),
+    url("./assets/Screenshot\ 2026-06-21\ 233537.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 100px;
+}
+
+header img{
+    width:150px;
+}
+
+header button{
+    background:red;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.hero{
+    height:80vh;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+}
+
+.hero h1{
+    font-size:60px;
+    max-width:700px;
+}
+
+.hero h2{
+    margin-top:20px;
+}
+
+.hero p{
+    margin-top:20px;
+}
+
+.email-box{
+    margin-top:20px;
+}
+
+.email-box input{
+    padding:15px;
+    width:350px;
+}
+
+.email-box button{
+    padding:15px 25px;
+    background:red;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
